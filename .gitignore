@@ -1,0 +1,5 @@
+# Ignore executable and text files
+# Prevent tracking of compiled binaries and plain text files
+*.exe
+*.txt
+.vscode
